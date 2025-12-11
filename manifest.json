@@ -1,0 +1,10 @@
+{
+  "id": "trash-note",
+  "name": "trash-note",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "임시로 지우고 싶은 행을 trash-note로 옮겨주는 플러그인",
+  "author": "ujupatipanno",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
